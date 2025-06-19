@@ -1,1 +1,587 @@
-[]
+[
+  {
+    "title": "Eres mi Sangre",
+    "description": "El pasado y el presente chocan, revelando verdades dolorosas y heridas abiertas, obligando a los protagonistas a tomar decisiones que lo cambiarán todo.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "eres-mi-sangre",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2N2U3MjJkYjQ1NmUyN2NjYTIwMTMyZjI=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/eres-mi-sangre"
+  },
+  {
+    "title": "Nina de azúcar",
+    "description": "Nina, una pastelera en apuros, Ramiro, un futbolista en escándalos. Una historia llena de amor y enredos que promete endulzar tus noches.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "nina-de-azucar",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDcwNjMxNDlmOGQ4MTgzOTVmYzc=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/nina-de-azucar"
+  },
+  {
+    "title": "Perdoname",
+    "description": "“Perdóname” una novela protagonizada por Erika Villalobos (Lara) y Aldo Miyashiro (Lito), la cual cuanta una historia de amor, misterios, secretos y traición. Muy pronto descubriremos más sobre esta gran historia.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "perdoname",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDY3NDMxNDlmOGQ4MTgzOTU2NzM=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/perdoname"
+  },
+  {
+    "title": "AN: Edición Central",
+    "description": "Sinónimo de objetividad, credibilidad y experiencia, Drusila Zileri, reconocida periodista, nos traen todas las noches la más completa información del acontecer nacional e internacional.",
+    "categoryTitle": "Noticias",
+    "seasonCount": null,
+    "webSlug": "an-edicion-central",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDFkODMxNDlmOGQ4MTgzOTBiYzA=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/an-edicion-central"
+  },
+  {
+    "title": "\"Habemus Papam: León XIV\"",
+    "description": "¡León XIV es el nuevo Papa!",
+    "categoryTitle": "Noticias",
+    "seasonCount": null,
+    "webSlug": "habemus-papam-leon-xiv",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2ODFkMmQ0ZTg4OTgwNDZlZDQwNjg4NmI=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/habemus-papam-leon-xiv"
+  },
+  {
+    "title": "Evidencia Oculta",
+    "description": "Julio Chuquitaípe reabre los casos más impactantes del país: Nuevas pistas, testimonios y revelaciones que podrían cambiar el rumbo de cada historia.",
+    "categoryTitle": "Noticias",
+    "seasonCount": null,
+    "webSlug": "evidencia-oculta",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2N2Y5YWZlNmRkNjJjZDk1OTYwZDI0Njk=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/evidencia-oculta"
+  },
+  {
+    "title": "Mande quien mande",
+    "description": "María Pía y La Carlota regresan para divertir tus tardes con chismes, concursos y mucho más.",
+    "categoryTitle": "Magazines",
+    "seasonCount": null,
+    "webSlug": "mande-quien-mande",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDQwMzMxNDlmOGQ4MTgzOTJkMDE=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/mande-quien-mande"
+  },
+  {
+    "title": "Desvelados",
+    "description": "¨Desvelados\" llega a encender tus noches",
+    "categoryTitle": "Magazines",
+    "seasonCount": null,
+    "webSlug": "desvelados",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2ODI3YWM1ZGMxYmNlODMyZmUwMTNhZGE=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/desvelados"
+  },
+  {
+    "title": "+ Espectáculos",
+    "description": "Enterate de lo último del espectáculo nacional e internacional junto a los carismaticos \"CHOCA\" y Jazmín Pinedo en \"+ Espectáculos\"",
+    "categoryTitle": "Magazines",
+    "seasonCount": null,
+    "webSlug": "espectaculos",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDJmZTMxNDlmOGQ4MTgzOTFkNDM=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/espectaculos"
+  },
+  {
+    "title": "Escápate",
+    "description": "Andrés Wiese realiza recorridos por tierra a distintos destinos de nuestro país y muestra las actividades, cultura, deportes y opciones gastronómicas que estos ofrecen.",
+    "categoryTitle": "Series tvgo",
+    "seasonCount": null,
+    "webSlug": "escapate",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDUzZDMxNDlmOGQ4MTgzOTQwNTc=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/escapate"
+  },
+  {
+    "title": "Celebra Perú",
+    "description": "Es un reality periodístico bajo la conducción de Martín Arredondo quien vivirá con intensidad todas las fiestas del Perú antes del Bicentenario.",
+    "categoryTitle": "Series tvgo",
+    "seasonCount": null,
+    "webSlug": "celebra-peru",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDUzYjMxNDlmOGQ4MTgzOTQwM2M=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/celebra-peru"
+  },
+  {
+    "title": "Sabor Perú",
+    "description": "Todo lo mejor de la comida Peruana",
+    "categoryTitle": "Series tvgo",
+    "seasonCount": null,
+    "webSlug": "sabor-peru",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDUzYTMxNDlmOGQ4MTgzOTQwMTk=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/sabor-peru"
+  },
+  {
+    "title": "Especiales tvGO",
+    "description": "Ponte cómod@ y conoce más de tus artistas favoritos con nuestros detrás de cámaras y entrevistas exclusivas.",
+    "categoryTitle": "Especiales",
+    "seasonCount": null,
+    "webSlug": "especiales-tvgo",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDA5MTMxNDlmOGQ4MTgzOGZhZTg=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/especiales-tvgo"
+  },
+  {
+    "title": "Grau Caballero de los mares",
+    "description": "Conmemorando 180 años de su nacimiento, América Televisión te invita a descubrir pasajes hasta ahora desconocidos de la vida del héroe más grande de nuestra Historia: Grau, el caballero de los mares. Grabado en el mismo monitor Huáscar, entre otros escenarios que fueron parte de su vida. Un género totalmente nuevo donde el periodismo y la ficción buscan retratar la vida de un hombre que se ganó el respeto y admiración de sus propios enemigos. Con la participación especial de Carlos Alcántara, junto a un gran elenco nacional. Producida por Michelle Alexander y dirigida por Mávila Huertas",
+    "categoryTitle": "Especiales",
+    "seasonCount": null,
+    "webSlug": "grau-caballero-de-los-mares",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDA4ZTMxNDlmOGQ4MTgzOGZhZDc=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/grau-caballero-de-los-mares"
+  },
+  {
+    "title": "La Frontera azul",
+    "description": "La Frontera azul",
+    "categoryTitle": "Especiales",
+    "seasonCount": null,
+    "webSlug": "la-frontera-azul",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDA5MDMxNDlmOGQ4MTgzOGZhZGU=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/la-frontera-azul"
+  },
+  {
+    "title": "América Deportes",
+    "description": "Programa conducido por Erick Osores. Encargado de narrar los acontecimientos más importantes en el mundo del deporte.",
+    "categoryTitle": "Deportes",
+    "seasonCount": null,
+    "webSlug": "america-deportes",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDBiNTMxNDlmOGQ4MTgzOGZjZDc=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/america-deportes"
+  },
+  {
+    "title": "Fútbol en América",
+    "description": "El resumen más completo del fútbol local, cubre todos los partidos de la Segunda División y la Copa Perú. Además sigue a los jugadores que juegan en el extranjero y está con la selección peruana en toda la Eliminatoria. Los torneos como la Copa Libertadores y la Copa Sudamericana, donde participan los equipos peruanos son parte de Fútbol en América.",
+    "categoryTitle": "Deportes",
+    "seasonCount": null,
+    "webSlug": "futbol-en-america",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDA5ZjMxNDlmOGQ4MTgzOGZiYzc=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/futbol-en-america"
+  },
+  {
+    "title": "Tvgo Extreme",
+    "description": "tvGO Extreme",
+    "categoryTitle": "Deportes",
+    "seasonCount": null,
+    "webSlug": "tvgo-extreme",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDA5NDMxNDlmOGQ4MTgzOGZiMGY=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/tvgo-extreme"
+  },
+  {
+    "title": "Maricucha",
+    "description": "Maricucha (Patricia Barreto), es una divertida serie que cuenta la historia de una cocinera que cambia su vida por completo al casarse con el dueño de la casa donde trabaja.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "maricucha",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDY1MTMxNDlmOGQ4MTgzOTUzZWI=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/maricucha"
+  },
+  {
+    "title": "Los Vilchez",
+    "description": "Después de los acontecimientos del final de VBQ: Empezando a vivir, la familia Vílchez decide iniciar una nueva vida, en un nuevo barrio, donde vivirán enormes desventuras..",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "los-vilchez",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDU4ZDMxNDlmOGQ4MTgzOTQ2MmE=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/los-vilchez"
+  },
+  {
+    "title": "Luz De Luna",
+    "description": "Luz de Luna narra la historia de amor de Luna (Vanessa Silva) y León (André Silva), quienes romperán las barreras sociales para defender su amor.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "luz-de-luna",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDY1ZjMxNDlmOGQ4MTgzOTU0ZjE=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/luz-de-luna"
+  },
+  {
+    "title": "Los Otros Concha",
+    "description": "Catalina creía tener la vida perfecta, el marido perfecto, los hijos soñados. Hasta que se enteró de la existencia de los otros Concha, la otra familia de su esposo.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "los-otros-concha",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDY0YjMxNDlmOGQ4MTgzOTUzODE=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/los-otros-concha"
+  },
+  {
+    "title": "Pulseras Rojas",
+    "description": "Es la historia de seis jóvenes que viven temporalmente en el Hospital Los Ángeles. Ellos descubrirán que la unión hace la fuerza en momentos tan complicados. Es una serie positiva que apuesta por la vida. El nexo de esta historia no es la tristeza, sino la superación y la alegría mostrando mucha ternura y muchas ganas de luchar.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "pulseras-rojas",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDYyZDMxNDlmOGQ4MTgzOTUxNzg=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/pulseras-rojas"
+  },
+  {
+    "title": "Tu Nombre Y El Mio",
+    "description": "Después de una tragedia que enlutó la cumbia peruana comienza la historia de amor de un hijo que dejo las lágrimas atrás para honrar a su padre.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "tu-nombre-y-el-mio",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDcwMTMxNDlmOGQ4MTgzOTVmNmU=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/tu-nombre-y-el-mio"
+  },
+  {
+    "title": "Luz De Esperanza",
+    "description": "León y Esperanza enfrentarán nuevos problemas. Un terrible accidente lo cambiará todo. ¿Los separarán para siempre?",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "luz-de-esperanza",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDY3NzMxNDlmOGQ4MTgzOTU2YWI=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/luz-de-esperanza"
+  },
+  {
+    "title": "De vuelta al barrio",
+    "description": "De Vuelta al Barrio es la historia de Malena y Pichon... una historia que no tuvo final cuando ella decidió plantarlo en el altar hace muchos años, ambientada en los años setenta que busca recrear esa época sin perder la comedia y drama. Personajes entrañables que nos muestran un tiempo donde era más simple vivir.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "de-vuelta-al-barrio",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDU1MTMxNDlmOGQ4MTgzOTQxZDM=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/de-vuelta-al-barrio"
+  },
+  {
+    "title": "Amores que matan",
+    "description": "De la mano de Mónica Sánchez conoceremos realidades que no estamos acostumbrados a ver, situaciones que pueden llegar al límite, todas ellas, inspiradas en hechos reales. Esta serie de capítulos unitarios nos presentará historias llenas de pasión, desenfreno y desesperación. AMORES QUE MATAN busca retratar una realidad  cotidiana de inseguridad, violencia y maltrato muy común en nuestra sociedad.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "amores-que-matan",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDYxZTMxNDlmOGQ4MTgzOTUwNjM=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/amores-que-matan"
+  },
+  {
+    "title": "Super Ada",
+    "description": "En enero comienza una comedia musical para toda la familia. Preparate para conocer la historia de Súper Ada.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "super-ada",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDY1YzMxNDlmOGQ4MTgzOTU0YjU=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/super-ada"
+  },
+  {
+    "title": "Derecho De Familia",
+    "description": "A sus 60 años, Marta vive a plenitud, tranquila, libre y con tiempo para descansar.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "derecho-de-familia",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDY0OTMxNDlmOGQ4MTgzOTUzNjE=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/derecho-de-familia"
+  },
+  {
+    "title": "Te Volvere A Encontrar",
+    "description": "Te volverá a encontrar narra la historia de Lucy, protagonizada por Alondra García Miró, quien fue secuestrada de muy niña y 20 años después buscará la verdad de su pasado.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "te-volvere-a-encontrar",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDU0NTMxNDlmOGQ4MTgzOTQwZTM=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/te-volvere-a-encontrar"
+  },
+  {
+    "title": "Junta De Vecinos",
+    "description": "Junta de Vecinos, es una divertida y relajante comedia familiar que relata la convivencia y supervivencia de unos vecinos muy especiales. Además, cuenta con la participación de la actriz mexicana Cynthia Klitbo y de la argentina Bárbara Torres.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "junta-de-vecinos",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDYzZTMxNDlmOGQ4MTgzOTUyOWI=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/junta-de-vecinos"
+  },
+  {
+    "title": "Cholo Powers",
+    "description": "La historia de un grupo de jóvenes llenos de metas que quieren cumplir, pero al no encontrar trabajo estarán dispuestos a lo que sea para llevar el pan a la mesa. El camino al éxito no será fácil, pero están seguros de algo: son cholos y están power, son los \"Cholopowers”. Estos chicos decidirán formar su propia empresa: animar y bailar en cumpleaños, despedidas de soltera, divorcios y cualquier celebración que requiera sus encantos. Aunque el camino no será fácil, esperan encontrar en este nuevo trabajo la manera de poder sostener a sus familias.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "cholo-powers",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDYyYjMxNDlmOGQ4MTgzOTUxNTg=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/cholo-powers"
+  },
+  {
+    "title": "Yo no me llamo Natacha",
+    "description": "Natacha (llamada como «Natasha») es una divertida y entusiasta muchacha provinciana que llega a la ciudad para encontrar un trabajo como empleada doméstica en la casa de Pablo Raúl y Teresa Schulman, una pareja de neuróticos esposos que afrontan una crisis económica. Natasha será la encargada de crear una empresa de buffets para eventos especiales, que ayudará a esta familia a obtener nuevos ingresos. En medio de varios enredos y aventuras, junto a Mery, Paquita, Kerly y su madre, Natasha buscará encontrar el amor, aunque para esto tenga que pasar por encima de Violeta..",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "yo-no-me-llamo-natacha",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDYyNzMxNDlmOGQ4MTgzOTUxMWI=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/yo-no-me-llamo-natacha"
+  },
+  {
+    "title": "Valiente Amor",
+    "description": "En 1994, Rita y Gerardo se conocieron en Cuzco, lugar donde tuvieron un bello y breve romance. Prometieron reencontrarse algún día, lamentablemente eso nunca sucedió. Fruto de este amor, nació Valentina, quien al cumplir 22 años de edad conoce a ALEJANDRO en Cuzco. Valentina perdió a toda su familia en un incendio, por ello decide ir a radicar a Lima y el dolor que sentía es curado por Alejandro, y ambos deciden vivir el amor más puro y sincero de todos.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "valiente-amor",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDYyMzMxNDlmOGQ4MTgzOTUwYzg=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/valiente-amor"
+  },
+  {
+    "title": "Mi Amor El Wachiman",
+    "description": "Esta historia se inicia el 15 de agosto del 2007 en Pisco, Perú. El terremoto de 7.9 grados obliga al protagonista de esta historia, SALVADOR, migrar a Lima con su madre PILAR y su hermana BELÉN para intentar buscar un futuro mejor. Y también, escapar del dolor sufrido por enterrar a su padre ALCIDES y su novia con quien pensaba casarse, SANDRA.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "mi-amor-el-wachiman",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDYxNjMxNDlmOGQ4MTgzOTRmZDc=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/mi-amor-el-wachiman"
+  },
+  {
+    "title": "Amor De Madre",
+    "description": "“AMOR DE MADRE” cuenta la historia de la heroína más importante de nuestro país: la madre peruana. La madre que sueña con tener una familia, ver crecer a sus hijos y darles lo mejor, que sueña con tener una empresa muy exitosa. La madre que es emprendedora, sacrificada, trabajadora y amorosa. ¿Y cómo podrá conseguir todos estos sueños? Teniendo la fuerza de su corazón y el amor de la gente que la rodea para conseguir lo que se propone. En esta historia conoceremos la vida de cuatro madres, y también la de una mujer que siempre quiso ser mamá. “AMOR DE MADRE” es un homenaje para todas las madres.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "amor-de-madre",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDYxMjMxNDlmOGQ4MTgzOTRmOGI=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/amor-de-madre"
+  },
+  {
+    "title": "Asi Es La Vida",
+    "description": "La historia empieza en Arequipa, Lorenzo (César Ritter) está perdidamente enamorado de Wendy (Vanessa Jerí), por lo cual la rapta justo en el momento en que se iba a casar y ante el temor de la represalia de la familia de ella, los dos viajan a Lima en busca del médico Humberto Sánchez (Gustavo Bueno)..",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "asi-es-la-vida",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDVkODMxNDlmOGQ4MTgzOTRiODA=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/asi-es-la-vida"
+  },
+  {
+    "title": "Mujercitas",
+    "description": "Narrará la historia de unión de cuatro bellas hermanas quienes son completamente opuestas entre sí, pero que, pese a las enormes diferencias, son capaces de entregar la vida una por la otra.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "mujercitas",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDVkMzMxNDlmOGQ4MTgzOTRiMmQ=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/mujercitas"
+  },
+  {
+    "title": "Colorina",
+    "description": "El clásico de inicios de los años 80, LA COLORINA en esta versión conoceremos la historia de la “Colorina” desde su adolescencia en la selva peruana, como una jovencita que espera ser feliz. Veremos cómo llegó al mundo de la prostitución, y cuál fue la tragedia que la empujó a caer en ella...",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "colorina",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDVjMTMxNDlmOGQ4MTgzOTQ5ZTk=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/colorina"
+  },
+  {
+    "title": "Solo Una Madre",
+    "description": "Narra la historia de Lucero una humilde joven  y Maryorie una chica rica y engreída. Lucero y Maryorie dan a luz el mismo día, pero el hijo de Marjorie nace con problemas respiratorios y con riegos de morir, al contrario del hijo de Lucero que nació sano. La madre de Marjorie, Vicky, intercambia a los recién nacidos. Pasarán los años y las dos jóvenes de diferentes clases sociales se tendrán que enfrentar a la verdad y a las circunstancias…",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "solo-una-madre",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDVjZTMxNDlmOGQ4MTgzOTRhZDE=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/solo-una-madre"
+  },
+  {
+    "title": "Los Amores De Polo",
+    "description": "Una miniserie basada en la vida de Augusto Polo Campos que será protagonizada por el exfutbolista y actor Francisco ‘Paco’ Bazán.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "los-amores-de-polo",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDVjYjMxNDlmOGQ4MTgzOTRhYTQ=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/los-amores-de-polo"
+  },
+  {
+    "title": "Mis Tres Marias",
+    "description": "David Villanueva interpreta a Leonardo (Leo), un hombre que tenía una familia maravillosa: tres hijas y una esposa, a quienes amaba con todo su ser. Sin embargo la repentina desaparición de Elena (Andrea Montenegro), su esposa, los dejará devastados. A pesar de ello, la tragedia se tornará peor cuando Leo sea arrestado injustamente y, a consecuencia de eso, sus tres Marías se vean obligadas a separarse.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "mis-tres-marias",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDVjNzMxNDlmOGQ4MTgzOTRhNTM=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/mis-tres-marias"
+  },
+  {
+    "title": "Ven Baila Quinceanera",
+    "description": "Rosy, Camila y Viviana ahora tienen 18 años y aprenderán a vivir la vida de una manera distinta en VBQ Empezando a Vivir...",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "ven-baila-quinceanera",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDViMzMxNDlmOGQ4MTgzOTQ4ZGU=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/ven-baila-quinceanera"
+  },
+  {
+    "title": "Al Fondo Hay Sitio",
+    "description": "Una de las zonas residenciales más exclusivas de Lima se ve sacudida con la llegada de LOS GONZALES, una familia que viene de provincia a establecerse en una casa heredada a medio construir. Sus costumbres campechanas incomodarán a los vecinos, sobre todo a LOS MALDINI que no saben cómo deshacerse de los recién llegados...",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "al-fondo-hay-sitio",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDY3YjMxNDlmOGQ4MTgzOTU2ZjA=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/al-fondo-hay-sitio"
+  },
+  {
+    "title": "Gamarra",
+    "description": "En el año 1990 Moisés llega a Lima proveniente de Junín junto a su esposa María y sus tres menores hijos: Aquiles, Héctor y Gloria; buscando mejorar su economía se instala en el jirón Gamarra como comerciante informal para vender las prendas de vestir que él mismo confecciona.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "gamarra",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDYzMzMxNDlmOGQ4MTgzOTUxZDM=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/gamarra"
+  },
+  {
+    "title": "Ciro El Angel Del Colca",
+    "description": "Serie basada en la desaparición del estudiante peruano, Ciro Castillo.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "ciro-el-angel-del-colca",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDYzMTMxNDlmOGQ4MTgzOTUxYTk=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/ciro-el-angel-del-colca"
+  },
+  {
+    "title": "La reina de las carretillas",
+    "description": "ESTRELLA tiene un pequeño puesto de cebiche que es el preferido de los turistas. Trabajadora y llena de sueños, lucha para salir adelante y darle todo lo que necesita a la pequeña niña que pronto dará a luz. Vive angustiada de que su esposo LÁZARO les haga algo a ella y a su bebé: él suele golpearla y humillarla para “corregirla” y demostrarle “cuánto la ama”.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "la-reina-de-las-carretillas",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDYzNTMxNDlmOGQ4MTgzOTUxZmQ=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/la-reina-de-las-carretillas"
+  },
+  {
+    "title": "Locura De Amor",
+    "description": "Jesi, es una joven empeñosa que ha conseguido sobresalir en su labor de publicista y lo tiene todo. Sin embargo, luego de una noche de copas, la vida de la joven dará un giro inesperado. Sin planearlo, se acostará con Xavi y al cabo de unas semanas se enterará de que está esperando un bebé. En tanto Xavi solo es un muchacho que quiere demostrarle a Jesi cuánto la ama.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "locura-de-amor",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDViZTMxNDlmOGQ4MTgzOTQ5YmY=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/locura-de-amor"
+  },
+  {
+    "title": "Cumbia Pop",
+    "description": "Música, amor y juventud. Esos tres elementos definen “Cumbia Pop”, telenovela familiar en la que pandillas juveniles de mundos muy diferentes, “Los malditos de Caja de Agua” y “Los Kings de la Molina” tienen que aprender a convivir en una correccional, resolviendo sus profundas diferencias para sacar adelante un grupo musical y así recuperar su libertad.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "cumbia-pop",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDVhZDMxNDlmOGQ4MTgzOTQ4ODQ=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/cumbia-pop"
+  },
+  {
+    "title": "O Besas O No Besas",
+    "description": "O besas o no besas es el título de la nueva miniserie que busca poner en la pequeña pantalla temas como la obesidad y la discriminación. Los roles principales de esta historia recaerán en las actrices Claudia Berninzon, Paola León y Shantall Young Oneto.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "o-besas-o-no-besas",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDU5ZTMxNDlmOGQ4MTgzOTQ3N2E=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/o-besas-o-no-besas"
+  },
+  {
+    "title": "Como Tv",
+    "description": "La historia gira alrededor de 5 personajes principales, el productor, Michael Grossi, la directora, Ximena, el talento, Eduardo Capetillo, la secretaria, Andrea Tinoco y el asistente, Marlboro. Juntos intentarán producir y realizar el programa “COMO TV”.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "como-tv",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDVhYzMxNDlmOGQ4MTgzOTQ4Nzg=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/como-tv"
+  },
+  {
+    "title": "Solamente Milagros",
+    "description": "Son historias inspiradas en hechos reales y cotidianos de nuestra sociedad peruana, hechos que nos han afectado y aún nos afectan, todos ellos tocados por un evento extraordinario: UN MILAGRO.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "solamente-milagros",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDVhNzMxNDlmOGQ4MTgzOTQ4MmY=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/solamente-milagros"
+  },
+  {
+    "title": "Yo Perdi El Corazon",
+    "description": "Vida y pasión de nuestra criollisima Lucía de la Cruz.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "yo-perdi-el-corazon",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDVhNjMxNDlmOGQ4MTgzOTQ4MGY=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/yo-perdi-el-corazon"
+  },
+  {
+    "title": "Historias de Red",
+    "description": "Depresión, machismo, bullying, infertilidad son problemas sociales que serán contados en Historias de Red",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "historias-de-red",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDVhNDMxNDlmOGQ4MTgzOTQ3Zjg=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/historias-de-red"
+  },
+  {
+    "title": "Mi Esperanza",
+    "description": "Elsa es una mujer luchadora, quien en base a sacrificio y cariño saca",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "mi-esperanza",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDVhMDMxNDlmOGQ4MTgzOTQ3OWE=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/mi-esperanza"
+  },
+  {
+    "title": "Ojitos Hechiceros",
+    "description": "Ojitos hechiceros es la historia de Nelson y su hija Estrella. Ellos viven en una casa muy humilde, en un cerro de la urbanización Monteverde y comparten su amor por la música. Flavia, madre de ESTRELLA y esposa de Nelson, los abandona por irse con el hermano de Nelson: Alipio. Pese a todo, Nelson no le inculca odio a su hija. Estrella sueña con ser una gran cantante.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "ojitos-hechiceros",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDU5NDMxNDlmOGQ4MTgzOTQ2Yjg=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/ojitos-hechiceros"
+  },
+  {
+    "title": "Senores Papis",
+    "description": "Señores Papis. Narra la historia de tres padres de familia que lo darán todo por sus hijos aún en circunstancias difíciles.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "senores-papis",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDU0MTMxNDlmOGQ4MTgzOTQwOTE=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/senores-papis"
+  },
+  {
+    "title": "Princesas",
+    "description": "Princesas es una ficción peruana inspirada en las historias de Disney._",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "princesas",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDY0NTMxNDlmOGQ4MTgzOTUzMjE=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/princesas"
+  },
+  {
+    "title": "La Perricholi",
+    "description": "Conoce la historia de la mujer más famosa del Virreinato del Perú, quien renunció a su verdadero amor y enamoró perdidamente al Virrey para cambiar su destino.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "la-perricholi",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDU0YjMxNDlmOGQ4MTgzOTQxNWQ=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/la-perricholi"
+  },
+  {
+    "title": "En La Piel De Alicia",
+    "description": "Conoce la historia de Alicia, una joven que llevaba una vida feliz y que cambió radicalmente por una tragedia.",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "en-la-piel-de-alicia",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDU4OTMxNDlmOGQ4MTgzOTQ1ZDY=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/en-la-piel-de-alicia"
+  },
+  {
+    "title": "Mi Vida Sin Ti",
+    "description": "Mi vida sin ti. Nueva producción de Michelle Alexander que tendrá como protagonistas a David Villanueva y Pierina Carcelén",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "mi-vida-sin-ti",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDU4NTMxNDlmOGQ4MTgzOTQ1N2M=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/mi-vida-sin-ti"
+  },
+  {
+    "title": "Chapa Tu Combi",
+    "description": "‘Chapa tu combi’, una serie que refleja la cruda realidad de nuestra sociedad. Protagonizada por Daniela Feijoó y Gustavo Borjas, quienes serán Paloma y Valentín, respectivamente..",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "chapa-tu-combi",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDU4MDMxNDlmOGQ4MTgzOTQ1MmQ=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/chapa-tu-combi"
+  },
+  {
+    "title": "La Otra Orilla",
+    "description": "La otra orilla es una historia basada en hechos reales y cuenta la historia de peruanos que salieron adelante a pesar de la pandemia",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "la-otra-orilla",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDU0ZjMxNDlmOGQ4MTgzOTQxYTg=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/la-otra-orilla"
+  },
+  {
+    "title": "Dos Hermanas",
+    "description": "Melissa Paredes protagoniza esta novela de Del barrio Producciones y América Televisión. Euya historia relata el larga camino que una mujer (Melissa Paredes) tendrá que recorrer sin perder las esperanzas para encontrar a su pequeña hermana..",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "dos-hermanas",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDYzODMxNDlmOGQ4MTgzOTUyMjc=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/dos-hermanas"
+  },
+  {
+    "title": "Vacaciones en  Grecia",
+    "description": "Vacaciones en Grecia",
+    "categoryTitle": "Novelas y Series",
+    "seasonCount": null,
+    "webSlug": "vacaciones-en-grecia",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/U2hvdzo2NzhmMDYyZTMxNDlmOGQ4MTgzOTUxODk=?imageType=landscape&imageSize=1920x795",
+    "url": "https://tvgo.americatv.com.pe/vacaciones-en-grecia"
+  }
+]
