@@ -1,3 +1,5 @@
+
+require("dotenv").config();
 const express = require("express");
 const fs = require("fs");
 const cors = require("cors");
@@ -5,6 +7,7 @@ const puppeteer = require("puppeteer");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
+const API_KEY = process.env.API_KEY;
 
 app.use(cors());
 
@@ -22,6 +25,11 @@ app.get("/novelas", (req, res) => {
 });
 
 app.get("/atualizar", async (req, res) => {
+  const clientKey = req.query.key || req.headers["x-api-key"];
+  if (clientKey !== API_KEY) {
+    return res.status(403).json({ error: "Chave de API inválida ou ausente" });
+  }
+
   const url = "https://tvgo.americatv.com.pe/novelas";
   const programas = [];
 
@@ -31,19 +39,24 @@ app.get("/atualizar", async (req, res) => {
     await page.goto(url, { waitUntil: "networkidle2" });
 
     const links = await page.$$eval('a.relative', (elements) => {
-      return elements.map((el) => ({
-        slug: el.href.split("/").pop().split("?")[0],
-        link: el.href,
-        image: el.querySelector("img")?.src || null,
-      }));
+      return elements.map((el) => {
+        const href = el.href;
+        const slug = href.split("/").filter(Boolean).pop().split("?")[0];
+        return {
+          slug,
+          link: href,
+          image: el.querySelector("img")?.src || null,
+        };
+      });
     });
 
-    for (const { slug, link, image } of links) {
+    for (const item of links) {
       try {
         const pg = await browser.newPage();
-        await pg.goto(link, { waitUntil: "domcontentloaded" });
+        await pg.goto(item.link, { waitUntil: "domcontentloaded" });
         const content = await pg.content();
         const bloco = content.split("<!--Array")[1]?.split("-->")[0];
+        if (!bloco) throw new Error("Bloco não encontrado");
 
         const get = (label) => {
           const match = bloco.match(new RegExp(`\[${label}\] => (.*?)\n`));
@@ -51,20 +64,20 @@ app.get("/atualizar", async (req, res) => {
         };
 
         const imageMatch = bloco.match(/\[url\] => (https?:\/\/.*?imageSize=1920x795)/);
-        const imageFull = imageMatch ? imageMatch[1].replace(/\\/g, "") : image;
+        const imageFull = imageMatch ? imageMatch[1].replace(/\/g, "") : item.image;
 
         programas.push({
           title: get("title"),
-          slug,
+          slug: item.slug,
           category: get("categoryTitle"),
           seasonCount: get("seasonCount"),
           description: get("description"),
           image: imageFull,
-          link,
+          link: item.link,
         });
         await pg.close();
       } catch (err) {
-        console.error(`Erro ao processar ${link}: ${err.message}`);
+        console.error(`Erro ao processar ${item.link}: ${err.message}`);
       }
     }
 
