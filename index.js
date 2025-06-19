@@ -3,6 +3,9 @@ const express = require("express");
 const fs = require("fs");
 const app = express();
 const PORT = process.env.PORT || 3000;
+const cors = require("cors");
+app.use(cors());
+
 
 // Middleware para verificar chave da API
 app.use((req, res, next) => {
