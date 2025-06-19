@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "title": "Maricucha",
+    "slug": "maricucha",
+    "category": "Novelas y Series",
+    "seasonCount": 2,
+    "description": "Una historia de amor y superación",
+    "image": "https://app-api2.tvgo.americatv.com.pe/v4/images/by-global-id/abc123?imageType=landscape&imageSize=490x276"
+  }
+]
